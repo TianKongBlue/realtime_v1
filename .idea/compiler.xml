@@ -14,11 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="realtime-common" target="1.8" />
-      <module name="realtime-dim" target="1.8" />
-      <module name="realtime-dwd" target="1.8" />
-      <module name="realtime-dws" target="1.8" />
-      <module name="realtime-gmall" target="1.8" />
+      <module name="realtime-common" target="1.5" />
+      <module name="realtime-dim" target="1.5" />
+      <module name="realtime-dwd" target="1.5" />
+      <module name="realtime-dws" target="1.5" />
+      <module name="realtime-gmall" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
