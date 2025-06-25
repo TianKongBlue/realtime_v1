@@ -1,0 +1,7 @@
+git branch 查看当前分支
+git checkout -b 创建分支并且切换到创建分支上
+git status 查看当前状态
+git add . 添加文件
+git commit -m '' 推送当前文件
+git push -u origin (项目别名) <分支名称>
+git merge 分支合并
